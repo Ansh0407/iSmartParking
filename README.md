@@ -111,7 +111,7 @@ Before running the project, ensure you have the following installed:
 ## Example Workflow
 
 1. Upload a video:
-2. 
+ 
 3. View live feed with slot status:
 
 4. Check real-time statistics:
@@ -128,7 +128,7 @@ Feel free to fork the repository and submit pull requests. Contributions are wel
 
 ## Author
 
-- **Your Name**  
+- **Pavan, Ansh**  
   [GitHub Profile](https://github.com/pavan-kumar-25)
   [GitHub Profile](https://github.com/Ansh0407)
 ```
